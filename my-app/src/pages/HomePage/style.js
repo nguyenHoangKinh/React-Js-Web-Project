@@ -6,4 +6,5 @@ export const WrapperTypeproduct = styled.div`
   gap: 34px;
   justify-content: flex-start;
   border-bottom: 1px solid red;
+  height: 44px;
 `;
