@@ -21,3 +21,10 @@ export const WrapperButtonComponent = styled(ButtonComponent)`
   text-align: center;
   
 `;
+export const WarpperProducts = styled.div`
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+`;
