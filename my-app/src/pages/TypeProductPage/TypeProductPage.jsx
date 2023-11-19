@@ -1,4 +1,3 @@
-import React, { Fragment } from "react";
 import NabarComponent from "../../components/NabarComponent/NabarComponent";
 import CardComponent from "../../components/CardComponent/CardComponent";
 import { Col, Pagination, Row } from "antd";
